@@ -1,15 +1,30 @@
-# neutralinojs-minimal
+# React Neu Template
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+This is template for running light weight desktop application using react 👩‍💻
 
-## Contributors
+**React JS + Typescript + [Neutralino JS](https://github.com/neutralinojs/neutralinojs)**
 
-[![Contributors](https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal)](https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors)
+### To Run the app
 
-## License
+> Goto /fe 👇
 
-[MIT](LICENSE)
+```
+npm install
+npm run dev
+```
 
-## Icon credits
+> From root
 
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+```
+neu run
+```
+
+### To build the app
+
+> From root
+
+```
+neu build --release
+```
+
+- [x] https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app
