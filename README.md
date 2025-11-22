@@ -18,11 +18,23 @@ npm run dev
 
 > From root
 
+will generate /bin -> will have files for running each platform
+
+```
+neu update
+```
+
 ```
 neu run
 ```
 
 ### To build the app
+
+> From _/fe_
+
+```
+npm run build
+```
 
 > From root
 
