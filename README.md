@@ -6,10 +6,13 @@ This is template for running light weight desktop application using react 👩�
 
 ### To Run the app
 
-> Goto /fe 👇
+> From _/fe_ 👇
 
 ```
 npm install
+```
+
+```
 npm run dev
 ```
 
@@ -27,4 +30,4 @@ neu run
 neu build --release
 ```
 
-- [x] https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app
+[Nue Documentation](https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app/)
